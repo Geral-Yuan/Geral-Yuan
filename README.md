@@ -1,7 +1,7 @@
 ### Hi, I'm Geral.
 
-- 🏫 I'm currently a second-year student majoring in Computer Science at Shanghai Jiao Tong University.
-- 📚️ I'm now studying knowledge and skills in various fields of computer science to find the area that interests me.
+- 🏫 I'm a third-year student majoring in Computer Science at Shanghai Jiao Tong University.
+- 📚️ Currently, I'm doing research about visual reasoning and robotics in SJTU MVIG Lab.
 
 <!--
 **Geral-Yuan/Geral-Yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
