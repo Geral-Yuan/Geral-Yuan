@@ -1,7 +1,8 @@
 ### Hi, I'm Geral.
 
 - 🏫 I'm a third-year student majoring in Computer Science at Shanghai Jiao Tong University.
-- 📚️ Currently, I'm doing research about visual reasoning and robotics in SJTU MVIG Lab.
+- 📚️ Currently, I'm doing research in Prof. [Yulun Zhang](https://yulunzhang.com/)'s group.
+- 📧 How to reach me: geral.yuan@gmail.com
 
 <!--
 **Geral-Yuan/Geral-Yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
