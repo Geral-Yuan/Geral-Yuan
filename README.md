@@ -1,7 +1,7 @@
 ### Hi, I'm Geral.
 
-- 🏫 I'm a third-year student majoring in Computer Science at Shanghai Jiao Tong University.
-- 📚️ Currently, I'm doing research in Prof. [Yulun Zhang](https://yulunzhang.com/)'s group.
+- 🏫 I'm a final year student majoring in Computer Science at Shanghai Jiao Tong University.
+- 📚️ Currently, I'm working as a research intern at SenseTime Research, closely with [Zhuofan Zong](https://zongzhuofan.github.io/).
 - 📧 How to reach me: geral.yuan@gmail.com
 
 <!--
